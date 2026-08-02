@@ -38,4 +38,4 @@ This analysis shows patterns and relationships in the data, not proof of what's 
 
 ## Files in This Repo
 - `Employee_Retention_Analysis.xlsx` — the full workbook (cleaned data, statistical analysis, dashboard)
-- `Rawdataset/` — the raw data of employees
+- `RawDataset.xlsx` — the raw data of employees
