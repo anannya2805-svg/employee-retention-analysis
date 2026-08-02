@@ -37,5 +37,5 @@ The company is losing more employees than expected, and replacing them is expens
 This analysis shows patterns and relationships in the data, not proof of what's directly causing people to leave. A deeper study would be needed to confirm cause and effect.
 
 ## Files in This Repo
-- `analysis/Employee_Retention_Analysis.xlsx` — the full workbook (cleaning, pivot tables, statistical analysis, dashboard)
+- `analysis/Employee_Retention_Analysis.xlsx` — the full workbook (cleaned data, statistical analysis, dashboard)
 - `data/` — the raw and cleaned datasets
